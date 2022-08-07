@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 public class MessageDTO {
 
     private static final String MESSAGE_ID_FIELD = "message_id";
-    private static final String SENDER_ID = "sender_id";
+    private static final String SENDER_ID = "sender";
     private static final String CHAT_FIELD = "chat";
     private static final String TEXT_FIELD = "text";
     private static final String PHOTOS_FIELD = "photos";
